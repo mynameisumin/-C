@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+//입력된 정수가 3의 배수인지 아닌지 
+
 int main(void){
     int i;
 
